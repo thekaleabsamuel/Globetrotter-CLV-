@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Globetrotter-CLV-/static/css/main.f4c3faa2.css",
+    "main.js": "/Globetrotter-CLV-/static/js/main.1096596e.js",
+    "static/js/453.8128384b.chunk.js": "/Globetrotter-CLV-/static/js/453.8128384b.chunk.js",
+    "static/media/GT-Logo.png": "/Globetrotter-CLV-/static/media/GT-Logo.946f5992c44e9852089d.png",
+    "index.html": "/Globetrotter-CLV-/index.html",
+    "main.f4c3faa2.css.map": "/Globetrotter-CLV-/static/css/main.f4c3faa2.css.map",
+    "main.1096596e.js.map": "/Globetrotter-CLV-/static/js/main.1096596e.js.map",
+    "453.8128384b.chunk.js.map": "/Globetrotter-CLV-/static/js/453.8128384b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c3faa2.css",
+    "static/js/main.1096596e.js"
+  ]
+}
