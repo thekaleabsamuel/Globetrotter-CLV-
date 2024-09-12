@@ -28,7 +28,7 @@ const DonationForm = () => {
 };
 
 function downloadTrack() {
-  const trackUrl = 'src/assets/clv master 1 8.15 (1).wav';
+  const trackUrl = 'src/assets/Clv.wav';
   const link = document.createElement('a');
   link.href = trackUrl;
   link.download = 'CestLaVie.mp3';
