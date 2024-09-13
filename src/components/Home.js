@@ -28,7 +28,7 @@ const DonationForm = () => {
 };
 
 function downloadTrack() {
-  const trackUrl = 'https://mega.nz/folder/BmlSBLaS#cg9OmeYAcGWsFfL_LdEXkg/file/hyVBzBKQ';
+  const trackUrl = 'https://mega.nz/file/uQBmHLqJ#Z3D3rpK7V8qMDUzRgNQ8lCmylwRZmqNaI0kG6iGoBEk';
   const link = document.createElement('a');
   link.href = trackUrl;
   link.download = 'CestLaVie.mp3';
