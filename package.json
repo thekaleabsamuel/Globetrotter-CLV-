@@ -2,7 +2,7 @@
   "name": "globetrotters-album1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thekaleabsamuel.github.io/Globetrotter-CLV-/",
+  "homepage": "https://globetrott3rs.com/",
   "dependencies": {
     "@stripe/react-stripe-js": "^2.8.0",
     "@stripe/stripe-js": "^4.4.0",
