@@ -4,7 +4,7 @@ import { Elements, CardElement, useStripe, useElements } from '@stripe/react-str
 import logo from '../assets/GT-Logo.png';
 import '../App.css';
 
-const stripePromise = loadStripe('pk_live_51Py9lGDqVT4O8Gch9pTID4cvLXxrfF46ltRvnlozqKNF6CxGspEJ1dZTy41OjnmcljvkQt7ZPpkDN2dHhWvh6Cvz00V3bDbUAq');
+const stripePromise = loadStripe(process.env.REACT_APP_STRIPE_PUBLIC_KEY);
 
 const DonationForm = () => {
   const stripe = useStripe();
