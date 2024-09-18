@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a05e7bcc.css",
-    "main.js": "/static/js/main.d12c3266.js",
+    "main.js": "/static/js/main.4cf557a9.js",
     "static/js/453.8128384b.chunk.js": "/static/js/453.8128384b.chunk.js",
     "static/media/C'EST LA VIE ARTWORK IDEA.png": "/static/media/C'EST LA VIE ARTWORK IDEA.190f844c5f324fae51b1.png",
     "static/media/GT-Logo.png": "/static/media/GT-Logo.946f5992c44e9852089d.png",
     "index.html": "/index.html",
     "main.a05e7bcc.css.map": "/static/css/main.a05e7bcc.css.map",
-    "main.d12c3266.js.map": "/static/js/main.d12c3266.js.map",
+    "main.4cf557a9.js.map": "/static/js/main.4cf557a9.js.map",
     "453.8128384b.chunk.js.map": "/static/js/453.8128384b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a05e7bcc.css",
-    "static/js/main.d12c3266.js"
+    "static/js/main.4cf557a9.js"
   ]
 }
